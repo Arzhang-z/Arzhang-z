@@ -1,3 +1,38 @@
+# Arzhang’s GitHub
+
+Hi, I’m Arzhang – a finance student exploring **quantitative finance, algorithmic trading, and data-driven investment strategies**.  
+I like turning math, statistics, and Python into small projects that help me understand markets better.
+
+---
+
+## About Me
+
+- Finance student building **quantitative and algorithmic skills**  
+- Learning **Python for data analysis, modeling, and backtesting**  
+- Interested in **portfolio management, risk analysis, and market structure**  
+- Curious about how **quantitative theory applies in real markets**
+
+---
+
+## Projects
+
+Here are some of the things I’ve worked on:
+...
+## Skills
+
+- **Programming & Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter  
+- **Finance & Analytics:** Quantitative Finance, Financial Modeling, Portfolio Simulation, Risk Analysis  
+- **Mathematics & Stats:** Statistics, Probability, Time Series Analysis  
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: your.email@example.com  
+
+> “Exploring markets one line of code at a time.”
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
